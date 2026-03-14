@@ -5,6 +5,8 @@ AI-Enhanced Predictive Analytics System for Diabetes Risk Detection using Machin
 ## Project Overview
 This project focuses on predicting diabetes risk using machine learning techniques. Health indicators such as age, BMI, HbA1c level, blood glucose level, hypertension, and smoking history are used to build predictive models.
 
+This project combines machine learning models and Explainable AI (SHAP) to predict and interpret diabetes risk based on health indicators.
+
 The goal is to identify individuals who may be at risk of diabetes and understand the factors contributing to the prediction.
 
 ## Dataset
